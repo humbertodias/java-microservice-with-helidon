@@ -6,6 +6,10 @@ Testing Oracle's helidon framework
 
 ![](doc/helidon-architecture.png)
 
+# Category
+
+![](doc/helidon-category.png)
+
 # Package
 
     make package
